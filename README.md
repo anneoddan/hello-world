@@ -15,7 +15,7 @@ I am a dedicated and versatile professional with a strong background in business
 ## Attached Files
 *First file is my current general resume*
 ###### Links within file:
-- [LinkedIn]((https://www.linkedin.com/in/anne-oddan/))  
+- [LinkedIn](https://www.linkedin.com/in/anne-oddan/)  
 - [Email](mailto:anne-oddan@gmail.com)
 
 ## Thank You
